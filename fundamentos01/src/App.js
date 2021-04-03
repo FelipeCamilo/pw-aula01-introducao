@@ -41,7 +41,7 @@ class App extends Component {
             </Card>
 
             <Card titulo="Propriedades" cor="#91cb3e">
-                <Propriedades nome="Gabriel" sobrenome="Fallen Toledo" idade={31}/>
+                <Propriedades nome="Homer" sobrenome="Jay Simpson" idade={38}/>
             </Card>
 
             <Card titulo="Olá mundo!" cor="#226ce0">
